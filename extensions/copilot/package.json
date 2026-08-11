@@ -7223,7 +7223,7 @@
     "esbuild": "0.28.1",
     "fastq": "^1.19.1",
     "glob": "^11.1.0",
-    "js-yaml": "^4.3.0",
+    "js-yaml": "^4.3.1",
     "minimist": "^1.2.8",
     "mobx": "^6.13.7",
     "mobx-react-lite": "^4.1.0",
@@ -7302,7 +7302,7 @@
     "lru-cache": "^11.1.0",
     "markdown-it": "^14.2.0",
     "minimatch": "^10.2.1",
-    "undici": "^7.24.1",
+    "undici": "^7.29.0",
     "vscode-tas-client": "^0.1.84",
     "web-tree-sitter": "^0.23.0"
   },
